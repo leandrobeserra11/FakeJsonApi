@@ -3,5 +3,11 @@
     {
       "name": "Leandro"
     }
+  ],
+  "products": [
+    {
+      "description": "Produto de teste 1",
+      "price": 15.5
+    } 
   ]
 }
